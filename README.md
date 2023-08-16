@@ -1,32 +1,3 @@
-<html>
-
-
-<h1 align="center"><u>LDAP SETUP ON PODMAN</u></h1>
-
-
- <style>
-
-    /* Body styles */
-    body {
-      background-color: white;
-      color: black; 
-      font-family: Arial, sans-serif;
-    }
-   
-  
-    .sidebar {
-      background-color:  rgb(188, 211, 217); 
-      color: white;
-    }
-   
-    .sidebar a {
-      color: green; 
-    }
-   
-  </style>
-
-<body>
-
 ## 1. Task Requirement
 
  1. Install and configure Ldap 389 DS in the containerised platform with persistence storage
@@ -342,9 +313,6 @@ For Attribute Syntax:- https://ldap.com/attribute-syntaxes/
 
 For Client Setup:- https://computingforgeeks.com/how-to-configure-ubuntu-as-ldap-client/?expand_article=1&expand_article=1
 
-</body>
-
-</html>
 
 
 
