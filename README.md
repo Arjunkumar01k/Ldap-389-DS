@@ -196,21 +196,21 @@ Apache Directory Studio is an open-source LDAP client with a graphical interface
         objectClass: top
         objectClass: inetOrgPerson
         objectClass: customEmployee
-        cn: rahul
-        sn: Gupta
+        cn: Arjun
+        sn: Kumar
         uid: 001
         EmployeeCode: 101
         userPassword: 12345@
-        personal email-id: rahulgupta@yopmail.com
+        personal email-id: arjunkumarsingh809@gmail.com
         mobileNo: 1213141500
         documentssubmitted: yes
-        DateofJoining: 05-01-2022
+        DateofJoining: 02-02-2023
         Gender: Male
-        DateofBirth: 06-01-1998
+        DateofBirth: 02-09-2002
         Panno: ABCDH7654P
-        Qualification: MCA
-        YearsofQualification: 2021
-        ProfessionalStartYEARS: 2022
+        Qualification: Diploma in Computer Science & Engineering
+        YearsofQualification: 2023
+        ProfessionalStartYEARS: 2023
         YEARSOfExperience: 01
         CorrespondenceAddress: Delhi
         MaritalStatus: Single
@@ -237,28 +237,25 @@ Output look like th
         # requesting: ALL
         #
 
-        # 001, dev, keenable.in
         dn: uid=001,ou=dev,dc=keenable,dc=in
         objectClass: top
         objectClass: inetOrgPerson
         objectClass: customEmployee
-        objectClass: organizationalPerson
-        objectClass: person
-        objectClass: posixAccount
-        cn: rahul
-        sn: Gupta
+        cn: Arjun
+        sn: Kumar
         uid: 001
         EmployeeCode: 101
-        personalemail-id: rahulgupta@yopmail.com
-        mobileno: 1213141500
+        userPassword: 12345@
+        personal email-id: arjunkumarsingh809@gmail.com
+        mobileNo: 1213141500
         documentssubmitted: yes
-        DateofJoining: 05-01-2022
+        DateofJoining: 02-02-2023
         Gender: Male
-        DateofBirth: 06-01-1998
+        DateofBirth: 02-09-2002
         Panno: ABCDH7654P
-        Qualification: MCA
-        YearsofQualification: 2021
-        ProfessionalStartYEARS: 2022
+        Qualification: Diploma in Computer Science & Engineering
+        YearsofQualification: 2023
+        ProfessionalStartYEARS: 2023
         YEARSOfExperience: 01
         CorrespondenceAddress: Delhi
         MaritalStatus: Single
